@@ -1,2 +1,2 @@
-# DS-Exercise
-Coding Exercises of UCI CS 131: Parallel and Distributed Systems
+# Distributed Systems
+Exercises of Pthreads, OpenMPI and OpenMP for UCI CS 131: Parallel and Distributed Systems
