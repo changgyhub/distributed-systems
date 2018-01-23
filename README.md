@@ -1,6 +1,10 @@
 # Distributed Systems
 Exercises of Pthreads, OpenMPI and OpenMP for UCI CS 131: Parallel and Distributed Systems
 
+### Notes
+* This is an assignment collection for UCI Course CS 131. The lecturer (and/or the tutors) owns the copyright of the assignment requirements.
+* Do not copy contents of this repo for course assignments. You should take the responsibility for any form of plagiarism.
+
 ### 1. Pthreads
 `DPP.c`: A naive dining philosophers solver. For a robust and lock-free one, see my repo [Dining-Philosophers](https://github.com/irsisyphus/Dining-Philosophers)
 
